@@ -1,0 +1,4 @@
+(executable
+ (public_name TAA)
+ (name main)
+ (flags -w +A-70-4 -warn-error +A-70-32-27-4))
